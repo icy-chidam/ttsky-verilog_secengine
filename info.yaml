@@ -14,7 +14,7 @@ project:
 
   # Source files in ./src — list each file separately
   source_files:
-    - tt_um_chidam_secengine.v
+    - "project.v"
 
   # Tile dimensions (1x1 = 160x100 um on SKY130 ChipFoundry)
   tiles: "1x1"
@@ -44,4 +44,8 @@ documentation:
     uio[4]: "Pipelined result bit 4 (output)"
     uio[5]: "Pipelined result bit 5 (output)"
     uio[6]: "Pipelined result bit 6 (output)"
+
+
+    yaml_version: 6
+    
     uio[7]: "Pipelined result bit 7 (output)"
