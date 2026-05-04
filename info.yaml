@@ -19,7 +19,6 @@ project:
   # Tile dimensions (1x1 = 160x100 um on SKY130 ChipFoundry)
   tiles: "1x1"
 
-documentation:
   pinout:
     ui[0]: "Data bit 0"
     ui[1]: "Data bit 1"
