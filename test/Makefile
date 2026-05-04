@@ -5,7 +5,7 @@ SIM          ?= icarus
 TOPLEVEL_LANG ?= verilog
 
 # Source files
-VERILOG_SOURCES += $(PWD)/../src/tt_um_chidam_secengine.v
+VERILOG_SOURCES += $(PWD)/../src/project.v
 
 # cocotb top-level module
 TOPLEVEL = tt_um_chidam_secengine
