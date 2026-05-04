@@ -44,8 +44,7 @@ documentation:
     uio[4]: "Pipelined result bit 4 (output)"
     uio[5]: "Pipelined result bit 5 (output)"
     uio[6]: "Pipelined result bit 6 (output)"
-
-
-    yaml_version: 6
-    
     uio[7]: "Pipelined result bit 7 (output)"
+
+        yaml_version: 6
+
